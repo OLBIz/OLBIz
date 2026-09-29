@@ -98,10 +98,6 @@
 
 <div align="center">
 
-### ☕ Support Me
-
-<a href="#"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-1a1a1a?style=for-the-badge&logo=buymeacoffee&logoColor=CFCFCF" /></a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D0D0D&height=140&section=footer" width="100%"/>
