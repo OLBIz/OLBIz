@@ -100,5 +100,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0D0D0D&height=140&section=footer" width="100%"/>
+<img src="https://ru.pinterest.com/pin/227080006208388247/" width="100%"/>
 
