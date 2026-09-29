@@ -1,0 +1,42 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="260" fill="none"/>
+  <!-- desk -->
+  <rect x="40" y="190" width="320" height="10" fill="#cfcfcf"/>
+  <rect x="60" y="200" width="10" height="45" fill="#9a9a9a"/>
+  <rect x="330" y="200" width="10" height="45" fill="#9a9a9a"/>
+
+  <!-- left monitor -->
+  <rect x="70" y="120" width="90" height="60" rx="4" fill="#1a1a1a" stroke="#cfcfcf" stroke-width="2"/>
+  <rect x="78" y="128" width="74" height="44" fill="#2a2a2a"/>
+  <rect x="105" y="180" width="20" height="10" fill="#9a9a9a"/>
+  <rect x="95" y="190" width="40" height="4" fill="#9a9a9a"/>
+  <rect x="82" y="134" width="30" height="4" fill="#6a6a6a"/>
+  <rect x="82" y="142" width="50" height="4" fill="#6a6a6a"/>
+  <rect x="82" y="150" width="20" height="4" fill="#6a6a6a"/>
+
+  <!-- right monitor -->
+  <rect x="230" y="110" width="110" height="72" rx="4" fill="#1a1a1a" stroke="#cfcfcf" stroke-width="2"/>
+  <rect x="240" y="120" width="90" height="52" fill="#2a2a2a"/>
+  <rect x="275" y="182" width="20" height="10" fill="#9a9a9a"/>
+  <rect x="262" y="192" width="46" height="4" fill="#9a9a9a"/>
+  <rect x="248" y="128" width="60" height="4" fill="#6a6a6a"/>
+  <rect x="248" y="138" width="40" height="4" fill="#6a6a6a"/>
+  <rect x="248" y="148" width="70" height="4" fill="#6a6a6a"/>
+  <rect x="248" y="158" width="30" height="4" fill="#6a6a6a"/>
+
+  <!-- person silhouette -->
+  <circle cx="195" cy="150" r="22" fill="#0d0d0d" stroke="#cfcfcf" stroke-width="2"/>
+  <path d="M155 245 Q155 190 195 190 Q235 190 235 245 Z" fill="#0d0d0d" stroke="#cfcfcf" stroke-width="2"/>
+
+  <!-- headphones -->
+  <path d="M175 140 Q175 118 195 118 Q215 118 215 140" fill="none" stroke="#cfcfcf" stroke-width="3"/>
+  <rect x="170" y="138" width="10" height="16" rx="3" fill="#cfcfcf"/>
+  <rect x="215" y="138" width="10" height="16" rx="3" fill="#cfcfcf"/>
+
+  <!-- keyboard -->
+  <rect x="150" y="196" width="90" height="10" rx="2" fill="#6a6a6a"/>
+
+  <!-- plant -->
+  <rect x="345" y="215" width="20" height="25" fill="#4a4a4a"/>
+  <path d="M355 215 Q340 195 330 205 M355 215 Q370 195 380 205 M355 215 Q355 185 355 195" stroke="#9a9a9a" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
