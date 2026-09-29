@@ -100,5 +100,5 @@
 
 </div>
 
-<img src="https://ru.pinterest.com/pin/227080006208388247/" width="100%"/>
+<img src="https://ru.pinterest.com/pin/544583779966964937/" width="100%"/>
 
